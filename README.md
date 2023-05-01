@@ -1,1 +1,1 @@
-# CA Emergency Department Charateristics
+# CA Emergency Department Characteristics
